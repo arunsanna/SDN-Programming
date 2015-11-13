@@ -1,8 +1,9 @@
 SDN
 ===
 Developed  from the template of the Software Defined Networking of Dr. Nick
-Developed and  Cutomized  by : Mr Arun Sanna
-Reasearch Work  EE-598  under Prof. Dong
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Developed and  Assignments  done by : Mr Arun Sanna
+Research Work  EE-598  under Prof. Dong
 California State University Los Angeles
 This repository consists of the assignments I did in SDN course in coursera in summer fall of 2015.
 _____________________________________________________________________________________________________________
